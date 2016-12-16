@@ -1,9 +1,11 @@
 # desafio-social-base
 
 **Caso Prático**
+
 Código Fonte na pasta DesafioSocialBase.
 
 **Caso Teórico**
+
 Cenário hipotético: Uma loja virtual famosa e muito acessada está precisando comunicar seus clientes sobre uma promoção relâmpago. 
 
 Esta informação deverá ser enviada através de dois canais: 
