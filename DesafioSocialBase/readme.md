@@ -12,6 +12,6 @@ O framework escolhido foi o Laravel na versão 5.2, além do framework o código
 Mais detalhes poderei colocar aqui posteriomente.
 
 #### Requisitos mínimos:
-    - PHP 5.6
+    - PHP >= 5.5.9
     - Composer
     - Laravel 5.2
